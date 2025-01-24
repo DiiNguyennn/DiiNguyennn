@@ -3,14 +3,16 @@
 <h3 align="center">Final-year UIT student passionate about data engineering, aiming to become a creative and skilled Data Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-- 🌱 I’m currently learning **the most advanced data systems.**
+- 📚 I’m currently learning **the most advanced data systems.**
 
 - 👨‍💻 All of my projects are available at ![here](https://github.com/DiiNguyennn?tab=repositories)
 
 - 💬 Ask me about **everything related to data.**
 
-- 📫 How to reach me **nhducduy1306@gmail.com**
+- ✉️ How to reach me **nhducduy1306@gmail.com**
 
+- 🏠 I'm from **Vietnam**🇻🇳
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/duynguyen1306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/duynguyen1306/" height="30" width="40" /></a>
