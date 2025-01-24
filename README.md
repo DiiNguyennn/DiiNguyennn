@@ -1,7 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQERL4y0q4PNRg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1676821819731?e=2147483647&v=beta&t=-016d49qsKlQW39-TBb1gxBzkJ43uEEfGRE0u5PhUqM)
 <h1 align="center">Hi 👋, I'm Duy (DiiNguyennn)</h1>
 <h3 align="center">Final year student at UIT from Vietnam. I want to become a great Data Engineer.</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966")
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+
 - 🌱 I’m currently learning **the most advanced data systems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiiNguyennn](https://github.com/DiiNguyennn)
