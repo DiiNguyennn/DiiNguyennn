@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the most advanced data systems.**
 
-- 👨‍💻 All of my projects are available at ![here]([https://github.com/DiiNguyennn](https://github.com/DiiNguyennn?tab=repositories))
+- 👨‍💻 All of my projects are available at ![here](https://github.com/DiiNguyennn?tab=repositories))
 
 - 💬 Ask me about **everything related to data.**
 
